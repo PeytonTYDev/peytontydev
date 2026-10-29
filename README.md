@@ -1,31 +1,28 @@
 # Peyton Ong
 
-I build AI that does a job for a business, with a team of AI agents I direct in Claude and Grok. I built the whole MystFlo platform solo that way — the app, the backend, the billing, the WhatsApp assistants, the copy and the plan.
+AI builder — agents that run operations for businesses: chat, booking and payment assistants.
 
-**How I build.** I write the spec. The agents write most of the code. A review process I designed checks every line before it ships. Specs, checks, save points — not prompting and hoping.
+**Now.** Current obsession: an agentic learning Brain, implementing AI into businesses, custom AI agent development. Stack: Claude Code, Cursor cloud agents, agent teams, Grok bots. Built [MystFlo](https://mystflo.com) solo with them: React, Supabase edge functions, Postgres with row-level security, Stripe wallet billing, WhatsApp Cloud API, n8n.
 
 ## What runs today
 
-[MystFlo](https://mystflo.com) is the AI operations platform for creative and wellness founders. The Brain agent organises your retreats, workshops, events and products into one Brain you confirm. AI assistants do the work from it — replies, bookings, deposits, listing copy — in the tools you already use. Pay only when it runs.
+- **Support + booking agent on WhatsApp** — answers from your real prices and policies, in your voice, on your own number. Takes the booking, chases the deposit. Support live · booking beta.
+- **Nomad-founder Grok bot** — your flight moves; it re-plans the week. Beta: in my own Grok today; yours is set up in your own.
+- **Claude setup: your own agent team** — the setup I build MystFlo with, in your own repo and Claude config. You own it. In use · Founder Co-Build delivered.
+- **Custom agents and automations** — an agent for the job that eats your week, on the apps you already use, with a human check before anything goes out. By proposal.
 
-On-Brand Support is live; workshop and event booking are in beta. Private beta — interested founders and businesses can [request an invite](https://mystflo.com), or [click through the live platform](https://platform.mystflo.com/explore) with no signup.
+Pre-built assistants are on the shelf too — [click through, no signup](https://platform.mystflo.com/explore).
 
-Under the hood: React, Supabase edge functions, Postgres with row-level security, Stripe wallet billing, WhatsApp Cloud API, n8n. TypeScript throughout.
+## Work with me
 
-## Two ways I work with any business
+**I build it.** Watch a demo, then DM me what your week looks like. A short call, a one-page proposal, then I build it — on WhatsApp, in Grok or in Claude. Hosted on MystFlo where it talks to customers; set up on your own account where it lives in Grok or Claude. You sign it off on a real case, then two weeks of corrections. One-time fee, quoted per scope, then pay per run for what runs on MystFlo. Never a retainer.
 
-**I build it.** Hand me what you have — an AI agent, an assistant, a Grok bot, a Claude setup, or a loose build that needs doing properly. You get it back working on your channel (WhatsApp, Instagram, or inside Claude or Grok), answering from your real prices and policies, hosted on MystFlo by default. You watch it run on a real case and sign it off, then two weeks of corrections. One-time build fee, quoted per scope, then pay per run. Never a retainer.
+**Build it with you.** Already building your own idea and it breaks on the first real user? Hand me the repo and where it breaks. I build alongside you in your codebase, and you keep the code and the skills. Scoped, with a finish line.
 
-**Build it with you.** Started vibe coding your own idea and it breaks on the first real user? Hand me the repo and where it breaks. I build alongside you in your codebase: the AI product angle first, the fragile parts rebuilt under a real process, then the first live deploy. You keep the code and the skills. Scoped, with a finish line. Never a retainer, never a course.
+## Before this
 
-## Proof so far
-
-- MystFlo — the platform, the assistants, the copy and the plan, built solo with an agent team. On-Brand Support live; booking in beta.
-- Founder Co-Build — 1-on-1 sessions where non-technical founders shipped their own software. Delivered.
-- Before this: 9 years as a product leader in fintech, payments and SaaS — Senior PM, Payments at Binance (merchant base 3.25x in 3 months); a digital bank's onboarding that secured Central Bank approval; co-founded Bitcurate, an AI signals product, in 2019.
+9 years in product: grew a crypto exchange's merchant payments base 3.25x in 3 months, took a digital bank's onboarding through Central Bank approval, shipped 30+ features on a work tool and lifted active usage 34.58%.
 
 ## Reach me
 
-[mystflo.com](https://mystflo.com)
-
-If you've got something you want built, or half-built, tell me what it is and where it breaks.
+[mystflo.com](https://mystflo.com) — got a week you want handed off, or a build that's half there? Tell me what it is and where it breaks.
